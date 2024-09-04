@@ -15,6 +15,10 @@ Full-stack developer and tech enthusiast. I love building websites and writing c
     <a href="https://aakifmohamed.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
+  </a>
+    <a href="https://www.goodreads.com/review/list/161322226?shelf=%23ALL%23" target="_blank">
+    <img src="[https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)" target="_blank" />
+  </a>
 </div>
 
 ### 🏫 Education
