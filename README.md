@@ -1,6 +1,6 @@
 ## Well, Hello There! I'm Aakif Mohamed 👋
 
-Full-stack developer and tech enthusiast. I love building websites and writing code, and have been obsessed with computers as a child. I'm self-taught in mobile and web development, and have dabbled in AI and blockchain too. I recently just stopped working on my startup [EloStack](https://www.elostack.com) after 8 grueling months of gruelling work. I'm finishing up on my Masters in Computer Science and am open to job offers.
+Full-stack developer and tech enthusiast. I love building websites and writing code, and have been obsessed with computers as a child. I'm self-taught in mobile and web development, and have dabbled in AI and blockchain too. I'm finishing up on my Masters in Computer Science and am open to job offers.
 
 <div align="center">
   <a href="mailto:aakifahamath@gmail.com">
