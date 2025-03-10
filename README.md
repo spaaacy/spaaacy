@@ -22,9 +22,9 @@ Full-stack developer and tech enthusiast. I love building websites and writing c
 
 ### 🏫 Education
 ---
-- **MS in Computer Science, Florida International University**, *Miami, FL* (Spring 2025)
+- **MS in Computer Science, Florida International University**, *Miami, FL* (April 2025)
 
-- **BS (Hons) in Computer Science, Asia Pacific University of Technology & Innovation**, *Kuala Lumpur, Malaysia* (Summer 2022)
+- **BS (Hons) in Computer Science, Asia Pacific University of Technology & Innovation**, *Kuala Lumpur, Malaysia* (August 2022)
 
 ### 💾 Skills
 ---
