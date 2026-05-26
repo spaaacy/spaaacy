@@ -3,9 +3,6 @@
 Full-stack developer and tech enthusiast. Passionate about building & scaling startups, I love building full-stack and have been obsessed with computers as a child. Self-taught in mobile and web development, with experience in Sales from working in startups.
 
 <div align="center">
-  <a href="mailto:aakifahamath@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red target="_blank" />
-  </a>
   <a href="https://www.linkedin.com/in/aakifmohamed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -14,9 +11,6 @@ Full-stack developer and tech enthusiast. Passionate about building & scaling st
   </a>
     <a href="https://aakifmohamed.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.goodreads.com/review/list/161322226?sort=rating" target="_blank">
-    <img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" target="_blank" />
   </a>
 </div>
 
